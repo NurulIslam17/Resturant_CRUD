@@ -1,0 +1,28 @@
+{
+  "resturants": [
+    {
+      "name": "Hotel Albartross",
+      "address": "Dhaka",
+      "contact": "123334",
+      "id": 1
+    },
+    {
+      "name": "KFC",
+      "address": "New York",
+      "contact": "345434",
+      "id": 2
+    },
+    {
+      "name": "StarBucks",
+      "address": "Dublin",
+      "contact": "098908",
+      "id": 3
+    },
+    {
+      "name": "CountrySide",
+      "address": "Santiage",
+      "contact": "778987",
+      "id": 4
+    }
+  ]
+}
